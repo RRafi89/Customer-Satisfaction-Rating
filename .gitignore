@@ -1,2 +1,4 @@
-
 .qodo
+.gitignore
+.vscode
+catboost_info
