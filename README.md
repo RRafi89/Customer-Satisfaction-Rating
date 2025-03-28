@@ -59,6 +59,7 @@ This project develops a machine learning model to predict customer satisfaction 
 
 ## Project Structure
 ```
+```
 Customer-Satisfaction-Rating/
 │
 ├── data/
@@ -153,9 +154,9 @@ MIT License
 Rafiquzzaman Rafi - rafiquzzamanrafi100@gmail.com
 
 Project Link: https://github.com/RRafi89/Customer-Satisfaction-Rating
-```
+
+
 Some Screenshots:
 ![SHAP Summary Plot](shap_summary.png)
 ![Test Precision-Recall curve](test_precision_recall.png)
 ![Test set Accuracy](test_accuracy.png)
-```
