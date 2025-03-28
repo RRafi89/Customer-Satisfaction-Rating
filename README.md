@@ -1,6 +1,3 @@
-Based on your conda environment and project structure, here's an updated README.md:
-
-```markdown
 # Airline Customer Satisfaction Prediction
 
 ## Project Overview
@@ -58,7 +55,7 @@ This project develops a machine learning model to predict customer satisfaction 
 - Precision-Recall Curve
 
 ## Project Structure
-```
+
 ```
 Customer-Satisfaction-Rating/
 │
