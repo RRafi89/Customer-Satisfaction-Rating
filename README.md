@@ -1,7 +1,7 @@
 # Airline Customer Satisfaction Prediction
 
 ## Project Overview
-This project develops a machine learning model to predict customer satisfaction in airlines using advanced techniques like LightGBM and Optuna for hyperparameter optimization.
+This project develops a machine learning model to predict customer satisfaction in airlines using advanced techniques like CatBoost and Optuna for hyperparameter optimization.
 
 ## Features
 - Advanced Machine Learning Modeling
@@ -34,7 +34,7 @@ This project develops a machine learning model to predict customer satisfaction 
 - Conda Environment
 - Libraries:
   - scikit-learn
-  - LightGBM
+  - CatBoost
   - Optuna
   - Pandas
   - NumPy
@@ -42,7 +42,7 @@ This project develops a machine learning model to predict customer satisfaction 
   - SHAP
 
 ## Model Techniques
-- LightGBM Classifier
+- CatBoost Classifier
 - Stratified K-Fold Cross-Validation
 - Hyperparameter Optimization
 - Balanced Accuracy Scoring
@@ -92,7 +92,7 @@ conda activate base  # or your environment name
 
 ### Option 2: Manual Installation
 ```bash | terminal
-pip install lightgbm optuna scikit-learn pandas numpy matplotlib shap joblib
+pip install optuna scikit-learn pandas numpy matplotlib shap joblib catboost
 ```
 
 ## Running the Project
