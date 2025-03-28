@@ -1,4 +1,4 @@
 .qodo
 .gitignore
 .vscode
-catboost_info
+catboost_info/
