@@ -5,9 +5,9 @@ This project develops a machine learning model to predict customer satisfaction 
 
 ## Features
 - Advanced Machine Learning Modeling
-- Hyperparameter Tuning with Optuna
+- Hyperparameter Tuning with `Optuna`
 - Comprehensive Performance Evaluation
-- Feature Importance Visualization using SHAP
+- Feature Importance Visualization using `SHAP`
 - Precision-Recall Curve Analysis
 
 ## Dataset
@@ -26,7 +26,7 @@ This project develops a machine learning model to predict customer satisfaction 
 ### Data Preprocessing
 - Stratified Train-Test Split
 - Standard Scaling
-- Handling Class Imbalance
+- Interaction features based on correlation with target
 - Column Transformation using Yeo-Johnson method
 
 ## Technologies Used
@@ -42,6 +42,8 @@ This project develops a machine learning model to predict customer satisfaction 
   - SHAP
 
 ## Model Techniques
+- XGBoost Classifier
+- LightGBM Classifier
 - CatBoost Classifier
 - Stratified K-Fold Cross-Validation
 - Hyperparameter Optimization
@@ -53,6 +55,7 @@ This project develops a machine learning model to predict customer satisfaction 
 - Average Precision
 - Classification Report
 - Precision-Recall Curve
+- Train-Test curve
 
 ## Project Structure
 
